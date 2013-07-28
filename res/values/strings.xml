@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Moles Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="list_empty_text">No data!</string>
+    <string name="photo_description">Describa la imagen</string>
+    <string name="de_galeria">De Galeria</string>
+    <string name="tomar_foto">Tomar Foto</string>
+
+</resources>
